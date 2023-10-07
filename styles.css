@@ -6,6 +6,9 @@ body{
     
     background-image: url(desimagen/patron9.jpg);
 }
+h1, bienvenido{
+    text-align: center;
+}
 table{
     margin-left: 17px;
     margin-bottom: 100px;
